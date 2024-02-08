@@ -69,6 +69,19 @@ nav a:active {
 	background-color: #6cdeeb;
 }
 
+section {
+	color: #FFF;
+	margin-top: 20px;
+	border: 2px solid #131112;
+	border-radius: 20px;
+	padding: 0 10px;
+	background-color: #190e4f;
+}
+
+footer {
+	margin-top: 20px;
+}
+
 .link-text {
 	color: #131112;;
 	text-decoration: none;

@@ -30,9 +30,9 @@ p
 	color: #FFF;
 }
 
-.home,
-.home:hover,
-.home:active {
+.nav-home,
+.nav-home:hover,
+.nav-home:active {
 	background-color: #4E1DC2;
 	color: #616691;
 }

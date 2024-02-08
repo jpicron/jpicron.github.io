@@ -30,19 +30,6 @@ img,
 	align-items: center;
 }
 
-section {
-	color: #FFF;
-	margin-top: 20px;
-	border: 2px solid #131112;
-	border-radius: 20px;
-	padding: 0 10px;
-	background-color: #190e4f;
-}
-
-footer {
-	margin-top: 20px;
-}
-
 .who-am-i {
 	text-align: center;
 	font-size: 25px;
@@ -68,9 +55,9 @@ footer {
 	color: #E1B07E;
 }
 
-.about,
-.about:hover,
-.about:active {
+.nav-about,
+.nav-about:hover,
+.nav-about:active {
 	background-color: #4E1DC2;
 	color: #616691;
 }
