@@ -9,10 +9,9 @@
 	padding-right: 10px;
 }
 
-p,
-h2{
-	font-size: 45px;
-	color: #FFF;
+p
+{
+	font-size: 40px;
 	text-align: center;
 	float: centerr;
 }
@@ -27,6 +26,8 @@ h2{
 	align-items: center;
 	border-radius: 20px;
 	background-color: #0B7189;
+	font-size: 30px;
+	color: #FFF;
 }
 
 .home,
