@@ -1,0 +1,97 @@
+.page {
+	height: auto;
+}
+
+.title {
+	padding: 0 200px;
+}
+
+nav a{
+	height: 100px;
+}
+
+.page {
+	color:#131112;;
+}
+
+.list-of-list {
+	padding: 15px 20px;
+	border: 3px;
+}
+
+.list {
+	padding-bottom: 20px;
+}
+
+.list-element {
+	padding: 10px 20px;
+	list-style-position: inside;
+}
+
+img,
+.link-image{
+	height: 75px;
+	width: auto;
+	display: flex;
+	padding: 10px;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+section {
+	color: #FFF;
+	margin-top: 20px;
+	border: 2px solid #131112;
+	border-radius: 20px;
+	padding: 0 10px;
+	background-color: #190e4f;
+}
+
+footer {
+	margin-top: 20px;
+}
+
+.who-am-i {
+	text-align: center;
+	font-size: 25px;
+	background-color: #32127A;
+}
+
+.external-links {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+.list-element .link-text {
+	color: #FFF;
+	font-style: italic;
+}
+.list-element .link-text:hover {
+	color: #E5BE9E;
+}
+.list-element .link-text:active {
+	color: #E1B07E;
+}
+
+.about,
+.about:hover,
+.about:active {
+	background-color: #4E1DC2;
+	color: #616691;
+}
+
+@media only screen and (min-width: 961px) {
+
+	.section-2-3{
+		display: flex;
+		justify-content: space-between;
+	}
+	
+	.section-element {
+		width: 49%;
+	}
+
+}
